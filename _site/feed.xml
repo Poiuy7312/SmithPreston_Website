@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
+  <link href="http://localhost:4000/jekyll-portfolio/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/jekyll-portfolio/" rel="alternate" type="text/html" />
+  <updated>2024-10-14T14:53:48-04:00</updated>
+  <id>http://localhost:4000/jekyll-portfolio/</id>
+
+  
+    <title type="html">Preston Smith</title>
+  
+
+  
+    <subtitle>Awesome site for project</subtitle>
+  
+
+  
+
+  
+  
+    <entry>
+      <title type="html">Project 6</title>
+      <link href="http://localhost:4000/jekyll-portfolio/" rel="alternate" type="text/html" title="Project 6" />
+      <published>2024-09-01T00:00:00-04:00</published>
+      <updated>2024-09-01T00:00:00-04:00</updated>
+      <id>http://localhost:4000/jekyll-portfolio/project-6</id>
+      <content type="html" xml:base="http://localhost:4000/jekyll-portfolio/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Game" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 4</title>
+      <link href="http://localhost:4000/jekyll-portfolio/" rel="alternate" type="text/html" title="Project 4" />
+      <published>2014-07-14T00:00:00-04:00</published>
+      <updated>2014-07-14T00:00:00-04:00</updated>
+      <id>http://localhost:4000/jekyll-portfolio/project-4</id>
+      <content type="html" xml:base="http://localhost:4000/jekyll-portfolio/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Graphic Design" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Project 5</title>
+      <link href="http://localhost:4000/jekyll-portfolio/" rel="alternate" type="text/html" title="Project 5" />
+      <published>2014-07-14T00:00:00-04:00</published>
+      <updated>2014-07-14T00:00:00-04:00</updated>
+      <id>http://localhost:4000/jekyll-portfolio/project-5</id>
+      <content type="html" xml:base="http://localhost:4000/jekyll-portfolio/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+        <category term="Software" />
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

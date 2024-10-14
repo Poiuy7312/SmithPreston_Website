@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 5
+date: 2014-07-14
+img: Chasten.png
+alt: image-alt
+project-date: September 2023
+client: Allegheny college Ultimate Frisbee Club
+category: Graphic Design
+description: Logo for Ultimate frisbee club at allegheny college
+---

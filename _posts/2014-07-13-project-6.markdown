@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2024-09-01
+img: Edited Image 3.jpg
+alt: Sonic
+project-date: September 2024
+client: Me myself and I
+category: Game
+description: An ai that plays tic tac toe against you
+---
